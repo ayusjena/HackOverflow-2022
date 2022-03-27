@@ -1,0 +1,35 @@
+body{
+    background-color: #000000;
+}
+.card{
+    background-color: #000000;
+
+}
+a{
+    text-decoration: none;
+}
+.title{
+    color: white;
+    font-family: 'Kanit', sans-serif;
+}
+.meta{
+    border: 3;
+}
+footer{
+    font-family: 'Kanit', sans-serif;
+}
+
+.meta-btn{
+    width: 450px;
+}
+
+.btn1{
+    background-color: #1b1b1b;
+    color: white;
+}
+
+.login{
+    width: 25%;
+    background-color: black;
+    margin-top: 200px;
+}
